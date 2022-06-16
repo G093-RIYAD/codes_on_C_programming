@@ -11,5 +11,11 @@ int main(){
     printf("%d+%d=%d\n",x,y,x+y);
     x=x*y-20.;
     printf("Final Value of x ix: %d\n",x);
+    
+    int a,b,c;
+    a = 99;
+    b = 69;
+    c =(a+b)*(a-b);
+    printf("Final result is : %d\n",c);
     return 0 ;
 }
