@@ -27,5 +27,11 @@ int main(){
     printf("%d\n",a-b);
     printf("%d\n",d/c);
     printf("%d\n",c*100);
+    
+    char x;
+    x = '#';
+    printf("%c\n",x);
+    
+    
     return 0 ;
 }
