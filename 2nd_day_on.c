@@ -17,5 +17,15 @@ int main(){
     b = 69;
     c =(a+b)*(a-b);
     printf("Final result is : %d\n",c);
+    
+    int a,b,c,d;
+    a=99;
+    b=89;
+    c=9;
+    d=900;
+    printf("%d\n",a+b);
+    printf("%d\n",a-b);
+    printf("%d\n",d/c);
+    printf("%d\n",c*100);
     return 0 ;
 }
