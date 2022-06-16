@@ -32,6 +32,16 @@ int main(){
     x = '#';
     printf("%c\n",x);
     
+    float x,y,z;
+    x = 9.8;
+    y = 4.4;
+    z = x*y;
+    printf("The final number is: %f\n",z);
     
+    double m,n,o;
+    m = 9.884922;
+    n = 4.479728;
+    o = x*y;
+    printf("The final number is: %f\n",o);
     return 0 ;
 }
