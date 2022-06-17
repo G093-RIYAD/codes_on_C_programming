@@ -71,5 +71,9 @@ int main(){
     b = 1.3;
     printf("result: %.2f\n",a+b);
     
+    float a;
+    a = 4/3.1;
+    printf("%f\n",a);
+   
     return 0;
 }
