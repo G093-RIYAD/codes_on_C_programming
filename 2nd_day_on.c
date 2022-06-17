@@ -66,5 +66,4 @@ int main(){
     printf("%lld\n",x);
     printf("%lld\n",y+x);
     return 0;
-    return 0 ;
 }
