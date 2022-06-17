@@ -59,5 +59,12 @@ int main(){
     a = 20;
     b = 3;
     printf("the value is : %d \n", a/b);
+    
+    long long int x,y;
+    x = 37675405847;
+    y = 89405968647;
+    printf("%lld\n",x);
+    printf("%lld\n",y+x);
+    return 0;
     return 0 ;
 }
