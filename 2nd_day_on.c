@@ -43,5 +43,16 @@ int main(){
     n = 4.479728;
     o = x*y;
     printf("The final number is: %f\n",o);
+    
+    int a,b,c;
+    a = 30;
+    b = 99;
+    c = (a+b)*(a-b);
+    printf("The final value: %d\n",c);
+
+    float x,y;
+    x = 20;
+    y = 3;
+    printf("The value is : %f\n", x/y);
     return 0 ;
 }
