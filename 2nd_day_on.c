@@ -54,5 +54,10 @@ int main(){
     x = 20;
     y = 3;
     printf("The value is : %f\n", x/y);
+    
+    int a,b;
+    a = 20;
+    b = 3;
+    printf("the value is : %d \n", a/b);
     return 0 ;
 }
