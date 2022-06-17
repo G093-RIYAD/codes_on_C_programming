@@ -65,5 +65,11 @@ int main(){
     y = 89405968647;
     printf("%lld\n",x);
     printf("%lld\n",y+x);
+    
+    float a,b;
+    a = 7.4;
+    b = 1.3;
+    printf("result: %.2f\n",a+b);
+    
     return 0;
 }
