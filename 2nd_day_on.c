@@ -80,6 +80,20 @@ int main(){
     y = 17.0;
     z = 33.0;
     printf("%.2lf\n",x*y/z);
+    
+    #include<stdio.h>
+int main()
+{
+    int a,b,c,d01,d02;
+    a = 3;
+    b = 5;
+    c = 6;
+    d01 = a+b/c;
+    d02 = a+(a-b);
+    printf("The First result %d\n",d01);
+    printf("The Second result %d\n",d02);
+    return 0;
+}
    
     return 0;
 }
