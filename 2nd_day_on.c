@@ -74,6 +74,12 @@ int main(){
     float a;
     a = 4/3.1;
     printf("%f\n",a);
+    
+    double x,y,z;
+    x = 13.0;
+    y = 17.0;
+    z = 33.0;
+    printf("%.2lf\n",x*y/z);
    
     return 0;
 }
