@@ -8,5 +8,9 @@ int main()
     
     char  a = 'm', b = 'u', c = 's', d =  'a';
     printf("%c%c%c%c\n",a,b,c,d);
+    
+    // For ASCII code use %d;
+    char x='A';
+    printf("%d\n",x);
     return 0;
 }
