@@ -12,5 +12,9 @@ int main()
     // For ASCII code use %d;
     char x='A';
     printf("%d\n",x);
+    
+    int a = 65, b = 66, c= 67;
+    printf("%c%c%c\n",a,b,c);
+    
     return 0;
 }
