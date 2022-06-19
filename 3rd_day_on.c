@@ -16,5 +16,19 @@ int main()
     int a = 65, b = 66, c= 67;
     printf("%c%c%c\n",a,b,c);
     
+    //User input using Scanf();
+    
+    int x;
+    scanf("%d\n",&x);
+    
+    char y;
+    scanf("%c\n",&y);
+    
+    float z;
+    scanf("%f\n",&z);
+    
+    double z01;
+    scanf("%if",&z01);
+    
     return 0;
 }
