@@ -34,5 +34,10 @@ int main()
     scanf("%c",&a);
     printf("Your total value: %c\n",a);
     
+    int a,b;
+    printf("Enter two Value for a and b: \n");
+    scanf("%d%d",&a, &b);
+    printf("your Sum value: %.0d n",a+b-20);
+    
     return 0;
 }
