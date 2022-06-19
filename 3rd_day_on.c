@@ -30,5 +30,9 @@ int main()
     double z01;
     scanf("%if",&z01);
     
+    char a;
+    scanf("%c",&a);
+    printf("Your total value: %c\n",a);
+    
     return 0;
 }
