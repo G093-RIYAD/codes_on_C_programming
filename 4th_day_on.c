@@ -14,5 +14,11 @@ int main()
     scanf("%d%d",&a,&b);
     printf("The two values are: %d and %d.",a,b);
     
+    // Input two integer value and display it's sum;
+    int a,b;
+    printf("Type two value: \n");
+    scanf("%d%d",&a,&b);
+    printf("Sum of this two value: %d",a+b);
+    
     return 0;
 }
