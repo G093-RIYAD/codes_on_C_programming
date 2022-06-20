@@ -14,11 +14,18 @@ int main()
     scanf("%d%d",&a,&b);
     printf("The two values are: %d and %d.",a,b);
     
-    // Input two integer value and display it's sum;
+    //03- Input two integer value and display it's sum;
     int a,b;
     printf("Type two value: \n");
     scanf("%d%d",&a,&b);
     printf("Sum of this two value: %d",a+b);
+    
+    
+    //05- Input two float value and display it's sum;
+    float m,n;
+    printf("Type two value: \n");
+    scanf("%f%f",&m,&n);
+    printf("Sum of this two value: %.2f",m+n);
     
     return 0;
 }
