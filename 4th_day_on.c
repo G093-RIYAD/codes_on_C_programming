@@ -20,16 +20,17 @@ int main()
     scanf("%d%d",&a,&b);
     printf("Sum of this two value: %d",a+b);
     
+    //04- Input two integer value and display it's product;
+    int x,y;
+    printf("Type two value: \n");
+    scanf("%d%d",&x,&y);
+    printf("Sum of this two value: %d",x*y);
+    
     //05- Input two float value and display it's sum;
     float m,n;
     printf("Type two value: \n");
     scanf("%f%f",&m,&n);
     printf("Sum of this two value: %.2f",m+n);
     
-    //04- Input two integer value and display it's product;
-    int x,y;
-    printf("Type two value: \n");
-    scanf("%d%d",&x,&y);
-    printf("Sum of this two value: %d",x*y);
     return 0;
 }
