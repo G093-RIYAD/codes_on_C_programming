@@ -12,7 +12,7 @@ int main()
     fahrenheit = (celsius *9/5) +32;
     printf("%.2f celsius : %.2f fahrenheit",celsius, fahrenheit);
     
-    //04-Write a C program to enter temperature in °Celsius and convert it into °Fahrenheit.
+    //03-Write a C program to enter temperature in °Celsius and convert it into °Fahrenheit.
     float fahr, cel;
     fahr = 70;
     cel = ((fahr-32)*5/9);
