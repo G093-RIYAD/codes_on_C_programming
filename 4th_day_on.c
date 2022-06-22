@@ -15,10 +15,10 @@ int main()
     printf("The two values are: %d and %d.",e,f);
     
     //03- Input two integer value and display it's sum;
-    int a,b;
+    int g,h;
     printf("Type two value: \n");
-    scanf("%d%d",&a,&b);
-    printf("Sum of this two value: %d",a+b);
+    scanf("%d%d",&g,&h);
+    printf("Sum of this two value: %d",g+h);
     
     //04- Input two integer value and display it's product;
     int x,y;
