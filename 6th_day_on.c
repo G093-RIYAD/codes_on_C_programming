@@ -27,8 +27,8 @@ int main() {
     printf("Size of char: %zu byte\n", sizeof(charType));
     
     int a;
-    long b; // equivalent to long int b;
-            
+    long b;
+    // equivalent to long int b;        
     long long c;  
     // equivalent to long long int c;
     double e;
