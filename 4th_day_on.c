@@ -9,10 +9,10 @@ int main()
     printf ("%d\n",c);
 
     // 02- Input two integer value and display thoes Value:
-    int a,b;
+    int e,f;
     printf("Type two integer value: \n");
-    scanf("%d%d",&a,&b);
-    printf("The two values are: %d and %d.",a,b);
+    scanf("%d%d",&e,&f);
+    printf("The two values are: %d and %d.",e,f);
     
     //03- Input two integer value and display it's sum;
     int a,b;
