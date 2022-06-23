@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main() 
 {
+   //if condition.
    int x = 5;
    if (x==5){
          printf("Value of x is %d.",x);
@@ -18,6 +19,8 @@ int main()
    
    int a,b;
    scanf("%d%d",&a,&b);
+   
+   //else condition.
    if (a>b){
         printf("a is grater");
     }
