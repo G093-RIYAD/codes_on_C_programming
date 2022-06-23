@@ -24,5 +24,11 @@ int main()
    else{
         printf("b is grater");
     }
+   
+   int a;
+    scanf("%d",&a);
+    if (a> 50 && a <100){
+        printf("a is grater");
+    }
     return 0;
 }
