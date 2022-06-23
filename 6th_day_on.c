@@ -30,5 +30,16 @@ int main()
     if (a> 50 && a <100){
         printf("a is grater");
     }
+   
+   char ans;
+    printf("which Programming language do you need for web dev.\n[a] Java  [c] C++\n[b] Java script  [d] python\nAns:");
+    scanf("%c",&ans);
+    if (ans == 'b'){
+        printf("Currect");
+    }
+    else{
+        printf("Worng");
+    }
+    r
     return 0;
 }
