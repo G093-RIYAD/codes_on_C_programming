@@ -88,3 +88,20 @@ int main()
     return 0; 
 }  
 
+#include <stdio.h>
+int main()
+{
+    /*Write a program which will take a small letter alphabet as input
+    from the user and print whether the alphabet is VOWEL or CONSONANT.*/
+    char ch;
+    printf("Print your single alphabet character: ");
+    scanf("%c",&ch);
+    if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' || ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U'){
+        printf("This %c alphabet character is a VOWEL. ",ch);
+    }
+    else{
+        printf("This %c alphabet character is a CONSONANT. ",ch);
+    }
+    return 0;
+}
+
