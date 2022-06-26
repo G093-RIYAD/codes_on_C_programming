@@ -96,7 +96,7 @@ int main()
     char ch;
     printf("Print your single alphabet character: ");
     scanf("%c",&ch);
-    if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' || ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U'){
+    if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u'){
         printf("This %c alphabet character is a VOWEL. ",ch);
     }
     else{
@@ -176,4 +176,17 @@ int main()
    else
 	printf("You are not eligible for voting");
    return 0;
+}
+
+if(condition) {
+    //Nested if else inside the body of "if"
+    if(condition2) {
+       //Statements inside the body of nested "if"
+    }
+    else {
+       //Statements inside the body of nested "else"
+    }
+}
+else {
+    //Statements inside the body of "else"
 }
