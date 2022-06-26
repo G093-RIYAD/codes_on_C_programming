@@ -104,4 +104,27 @@ int main()
     }
     return 0;
 }
+#include <stdio.h>
+int main()
+{
+    int age;
+    printf("Enter age: ");
+    scanf("%d",&age);
+    if(age<2){
+        printf("Infant");
+    }
+    else if(age<9){
+        printf("Child");
+    }
+    else if(age<18){
+        printf("Teenage");
+    }
+    else if(age<30){
+        printf("Adult");
+    }
+    else{
+        printf("Old");
+    }
+    return 0;
+}
 
