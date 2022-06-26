@@ -136,5 +136,9 @@ int main()
 	{
 		printf("num1 is smaller than num2");
 	}
+	int x = 41;
+	x =x+ 1;
+	if (x == 42) {
+   	printf("You succeed!");}
 	return 0;
 }
