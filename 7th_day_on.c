@@ -84,5 +84,7 @@ int main()
     else   
     {  
         printf("Sorry ... you can't vote");   
-    }  
+    } 
+    return 0; 
 }  
+
