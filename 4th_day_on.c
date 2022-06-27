@@ -24,7 +24,7 @@ int main()
     int x,y;
     printf("Type two value: \n");
     scanf("%d%d",&x,&y);
-    printf("Sum of this two value: %d",x*y);
+    printf("product of this two value: %d",x*y);
     
     //05- Input two float value and display it's sum;
     float m,n;
