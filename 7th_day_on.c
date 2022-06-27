@@ -289,3 +289,24 @@ int main()
    }
    return 0;
 }
+#include <stdio.h>
+
+int main() {
+	
+	// variable to store the given number
+	int n;
+	
+	//take input from the user
+	scanf("%d",&n);
+	
+	//if else condition to check whether the number is even or odd
+	if (n % 2 == 0) {
+	    //the number is even
+	    printf("Even");
+	} else {
+	    //the number is odd
+	    printf("Odd");
+	}
+	
+	return 0;
+}
