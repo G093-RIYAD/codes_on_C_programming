@@ -224,3 +224,15 @@ int main()
 	printf("You are not eligible for voting");
    return 0;
 }
+if(condition) {
+    //Nested if else inside the body of "if"
+    if(condition2) {
+       //Statements inside the body of nested "if"
+    }
+    else {
+       //Statements inside the body of nested "else"
+    }
+}
+else {
+    //Statements inside the body of "else"
+}
