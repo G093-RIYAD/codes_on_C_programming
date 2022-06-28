@@ -39,3 +39,18 @@ switch (day) {
 }
 
 // Outputs "Looking forward to the Weekend"
+switch (expression)
+​{
+    case constant1:
+      // statements
+      break;
+
+    case constant2:
+      // statements
+      break;
+    .
+    .
+    .
+    default:
+      // default statements
+}
