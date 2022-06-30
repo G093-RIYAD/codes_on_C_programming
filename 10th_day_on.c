@@ -43,3 +43,14 @@ int main()
     printf("%d\n",x--);
     return 0;
 }
+#include <stdio.h>
+int main()
+{
+    if(1 == 2 != 0){
+        printf("Hi\n");
+    }
+    else{
+        printf("Hellow");
+    }
+    return 0;
+}
