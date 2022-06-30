@@ -310,29 +310,3 @@ int main() {
 	
 	return 0;
 }
-//check if the first condition holds
-if (condition 1) {
-    
-    //if the second condition holds
-    if (condition 2) {
-        do something
-    }
-    //if the second condition does not hold
-    else {
-        do something else
-    }
-    
-}
-// if the first condition does not hold
-else{
-    
-    //if the third condition holds
-    if (condition 3) {
-        do something
-    }
-    //if the third condition does not hold
-    else {
-        do something else
-    }
-    
-}
