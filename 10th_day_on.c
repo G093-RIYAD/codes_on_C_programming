@@ -3,19 +3,19 @@ int main()
 {
     int num = 5;
     num = num + 30;
-    printf("%d",num);
+    printf("%d\n",num);
 
     int a = 5;
     a += 40;
-    printf("%d",a);
+    printf("%d\n",a);
 
     int b = 60;
     b -= 5;
-    printf("%d",b);
+    printf("%d\n",b);
 
     int c = 5;
     c *= 10;
-    printf("%d",c);
+    printf("%d\n",c);
     
     int d = 77;
     d /= 6;
