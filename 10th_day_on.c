@@ -70,3 +70,10 @@ gets(full_name);
 printf("My full name is %s ",full_name);
 return 0;
 }
+#include <stdio.h>
+int main() {
+char name[10];
+printf("Enter your  name plz: ");
+fgets(name, 10, stdin);
+printf("My name is %s ",name);
+return 0;}
