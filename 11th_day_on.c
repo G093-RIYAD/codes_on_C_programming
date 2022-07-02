@@ -66,7 +66,4 @@ int main() {
                         printf("incorrect password");
                         break;
                 }
-                break;
-            default:
-                printf("incorrect ID");
-             
+               
