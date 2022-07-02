@@ -51,8 +51,6 @@ switch (number) {
 #include <stdio.h>
 int main() {
         int ID = 500;
-        int password = 000;
-        printf("Plese Enter Your ID:\n ");
-        scanf("%d", & ID);
+        
         
                
