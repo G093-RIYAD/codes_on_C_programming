@@ -48,9 +48,7 @@ switch (number) {
     break;
   default:
     printf("Greater than Six.\n");}}
-#include <stdio.h>
-int main() {
-        int ID = 500;
+
         
         
                
