@@ -58,9 +58,5 @@ int main() {
             case 500:
                 printf("Enter your password:\n ");
                 scanf("%d", & password);
-                switch (password) {
-                    case 000:
-                        printf("Welcome Dear Programmer\n");
-                        break;
-                    
+                
                
