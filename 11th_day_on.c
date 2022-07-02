@@ -62,8 +62,5 @@ int main() {
                     case 000:
                         printf("Welcome Dear Programmer\n");
                         break;
-                    default:
-                        printf("incorrect password");
-                        break;
-                }
+                    
                
