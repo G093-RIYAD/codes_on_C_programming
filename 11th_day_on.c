@@ -69,6 +69,4 @@ int main() {
                 break;
             default:
                 printf("incorrect ID");
-                break;
-        }
-}
+             
