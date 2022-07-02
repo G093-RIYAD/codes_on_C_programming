@@ -54,9 +54,5 @@ int main() {
         int password = 000;
         printf("Plese Enter Your ID:\n ");
         scanf("%d", & ID);
-        switch (ID) {
-            case 500:
-                printf("Enter your password:\n ");
-                scanf("%d", & password);
-                
+        
                
