@@ -24,5 +24,3 @@ int language = 10;
   case 1:
     printf("C#\n");
     break;
-  case 2:
-    printf("C\n");
