@@ -28,5 +28,4 @@ int language = 10;
     printf("C\n");
     break;
   case 3:
-    printf("C++\n");
-    break;
+  
