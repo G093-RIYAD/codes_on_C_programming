@@ -30,10 +30,3 @@ int language = 10;
   case 3:
     printf("C++\n");
     break;
-  default:
-    printf("Other programming language\n");}}
-
-
-        
-        
-               
