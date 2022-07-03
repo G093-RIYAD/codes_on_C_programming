@@ -20,7 +20,4 @@
 #include <stdio.h>
 int main() {
 int language = 10;
-  switch (language) {
-  case 1:
-    printf("C#\n");
-    break;
+  switch (language) 
