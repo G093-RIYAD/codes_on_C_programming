@@ -26,6 +26,3 @@ int language = 10;
     break;
   case 2:
     printf("C\n");
-    break;
-  case 3:
-  
