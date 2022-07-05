@@ -124,7 +124,4 @@ int main()
     else
         printf("Number is greater than 100!\n");
 
-    printf("\n\n\t\t\tCoding is Fun !\n\n\n");
     
-    return 0;
-}
