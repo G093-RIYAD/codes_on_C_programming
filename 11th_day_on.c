@@ -121,7 +121,5 @@ int main()
         printf("Number is less than 100!\n");
     else if(number == 100)
         printf("Number is 100!\n");
-    else
-        printf("Number is greater than 100!\n");
-
+    
     
