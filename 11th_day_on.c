@@ -115,10 +115,4 @@ int main()
     printf("Please enter a number:\n");
     scanf("%d",&number);
     /*
-        For single statements we can skip the curly brackets
-    */
-    if(number < 100)
-        printf("Number is less than 100!\n");
-    
-    
-    
+        For single statements we can skip the curly bracke
