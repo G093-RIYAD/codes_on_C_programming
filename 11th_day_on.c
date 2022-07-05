@@ -105,14 +105,3 @@ void main()
     printf ("%d is equivalent to %d years, %d weeks and %d daysn",
             ndays, year, week, days);
 }
-#include<stdio.h>
-
-int main()
-{
-    printf("\n\n\t\tStudytonight - Best place to learn\n\n\n");
-
-    int number;
-    printf("Please enter a number:\n");
-    scanf("%d",&number);
-    /*
-        For single statements we can skip the curly bracke
