@@ -68,3 +68,20 @@ int main(){
       printf("The given Triangle is scalene\n");
    return 0;
 }
+#include <stdio.h>
+ int main()
+{
+    char ch;
+    printf("Type any single alphabet, digit or any spacial character: ");
+    scanf("%c",&ch);
+    if(ch >= 'a' && ch <= 'z' || ch >= 'A' && ch <= 'Z'){
+        printf("%c is a Alphabet",ch);
+    }
+    else if(ch >= '0' && ch <= '9'){
+        printf("%c is a Digit",ch);
+    }
+    else{
+        printf("%c is a Spacial Character",ch);
+    }
+    return 0;
+}
