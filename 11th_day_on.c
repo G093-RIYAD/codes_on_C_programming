@@ -1,7 +1,4 @@
 
-        
-            case 8:
-                printf("Value is 8");
                 break;
             case 9:
                 printf("Value is 9");
