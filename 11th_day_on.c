@@ -1,5 +1,4 @@
-#include <stdio.h>
-    int main() {
+{
         int num = 8;
         switch (num) {
             case 7:
