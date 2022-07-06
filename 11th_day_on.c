@@ -1,7 +1,5 @@
 
-                break;
-            case 9:
-                printf("Value is 9");
+       
                 break;
             default:
                 printf("Out of range");
