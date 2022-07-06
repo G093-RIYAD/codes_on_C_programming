@@ -1,7 +1,6 @@
 
        
-                break;
-            default:
+       
                 printf("Out of range");
                 break;
         }
