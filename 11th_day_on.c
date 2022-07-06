@@ -1,6 +1,4 @@
-{
-        int num = 8;
-        switch (num) {
+
             case 7:
                 printf("Value is 7");
                 break;
