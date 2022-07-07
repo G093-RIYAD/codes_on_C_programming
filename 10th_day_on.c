@@ -80,7 +80,3 @@ return 0;}
 #include <stdio.h>
 int main()
 {char town[40];
-  printf("Enter your town: ");
-  gets(town);
-  fputs(town, stdout);
-  return 0;}
