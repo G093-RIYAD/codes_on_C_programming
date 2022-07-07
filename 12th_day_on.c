@@ -10,6 +10,13 @@ int main()
     int a;
     for(a=2 ;a<=100;a=a+2){
         printf("%d\n",a);
+        
+    int a;
+    for(a = 10; a>= -2; a = a-3){
+        printf("%d\n",a);
+        printf("*\n");
+        printf("**\n");
+        printf("***\n");
     }
     return 0;
 }
