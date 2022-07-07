@@ -32,5 +32,13 @@ int main()
         printf("%d\n",a);
 
     }
+  //Write a for loop which will print summation of all numbers which are divided by 3 and 5 between 30 to 120.
+    int a,sum;
+    for(a=30;a<=120;a++){
+        if(a % 3 == 0 && a % 5 == 0){
+            sum = sum + a;
+            printf("Summation: %d\n",sum);
+        }
+    }
     return 0;
 }
