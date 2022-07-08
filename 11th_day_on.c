@@ -49,13 +49,7 @@ int main(){
       printf("The given Triangle is scalene\n");
    return 0;
 }
-#include <stdio.h>
- int main()
-{
-    char ch;
-    printf("Type any single alphabet, digit or any spacial character: ");
-    scanf("%c",&ch);
-    
+ /*  
  * C program to convert given number of days to a measure of time given
  * in years, weeks and days. For example 375 days is equal to 1 year
  * 1 week and 3 days (ignore leap year)
