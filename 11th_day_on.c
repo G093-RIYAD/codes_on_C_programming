@@ -60,12 +60,7 @@ int main(){
     }
     else if(ch >= '0' && ch <= '9'){
         printf("%c is a Digit",ch);
-    }
-    else{
-        printf("%c is a Spacial Character",ch);
-    }
-    return 0;
-}
+
 /*
  * C program to convert given number of days to a measure of time given
  * in years, weeks and days. For example 375 days is equal to 1 year
