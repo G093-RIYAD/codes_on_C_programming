@@ -37,8 +37,5 @@ int main()
     for(a=30;a<=120;a++){
         if(a % 3 == 0 && a % 5 == 0){
             sum = sum + a;
-            printf("Summation: %d\n",sum);
-        }
-    }
-    return 0;
+      
 }
