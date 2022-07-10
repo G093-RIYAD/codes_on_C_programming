@@ -25,7 +25,7 @@ int main () {
 
    return 0;
 }
-/* function returning the max between two numbers */
+
 int max(int num1, int num2) {
 
    
