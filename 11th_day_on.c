@@ -49,9 +49,6 @@ int main(){
       printf("The given Triangle is scalene\n");
    return 0;
 }
- /*  
- * C program to convert given number of days to a measure of time given
- *
 #include <stdio.h>
 #define DAYSINWEEK 7
  
