@@ -49,10 +49,3 @@ int main(){
       printf("The given Triangle is scalene\n");
    return 0;
 }
-
-
-    week =(ndays % 365) / DAYSINWEEK;
-    days =(ndays % 365) % DAYSINWEEK;
-    printf ("%d is equivalent to %d years, %d weeks and %d daysn",
-            ndays, year, week, days);
-}
