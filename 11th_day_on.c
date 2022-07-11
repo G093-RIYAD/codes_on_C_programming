@@ -49,12 +49,7 @@ int main(){
       printf("The given Triangle is scalene\n");
    return 0;
 }
-#include <stdio.h>
-#define DAYSINWEEK 7
- 
-void main()
-{
-    int ndays, year, week, days;
+
  
     printf("Enter the number of days\n");
     scanf("%d", &ndays);
