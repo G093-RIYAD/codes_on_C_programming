@@ -66,6 +66,3 @@ num = num / 10;
 printf("\nREVERSED NUMBER IS----: %ld", rev);
 return 0;
 }
-#include<stdio.h>
-#include<math.h>
-int main()
