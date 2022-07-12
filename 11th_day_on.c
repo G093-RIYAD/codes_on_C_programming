@@ -85,5 +85,4 @@ if (n == rev)
 printf("\nGIVEN NUMBER IS A PALINDROME");
 else
 printf("\nGIVEN NUMBER IS NOT A PALINDROME");
-return 0;
-}
+
