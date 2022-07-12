@@ -71,5 +71,3 @@ return 0;
 int main()
 {
 long int n, num, rev = 0, dig;
-
-printf("\n\nENTER A NUMBER----: ");
