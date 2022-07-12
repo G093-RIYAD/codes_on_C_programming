@@ -81,7 +81,3 @@ dig = num % 10;
 rev = rev * 10 + dig;
 num = num / 10;
 }
-if (n == rev)
-printf("\nGIVEN NUMBER IS A PALINDROME");
-
-
