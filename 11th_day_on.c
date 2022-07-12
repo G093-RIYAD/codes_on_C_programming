@@ -77,5 +77,3 @@ scanf("%ld", &num);
 n = num;
 while(num>0)
 {
-dig = num % 10;
-rev = rev * 10 + dig;
