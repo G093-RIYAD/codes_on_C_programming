@@ -69,5 +69,3 @@ return 0;
 #include<stdio.h>
 #include<math.h>
 int main()
-{
-long int n, num, rev = 0, dig;
