@@ -75,5 +75,3 @@ long int n, num, rev = 0, dig;
 printf("\n\nENTER A NUMBER----: ");
 scanf("%ld", &num);
 n = num;
-while(num>0)
-{
