@@ -52,5 +52,3 @@ int main(){
 #include<stdio.h>
 #include<math.h>
 int main()
-{
-long int num, rev = 0, dig;
