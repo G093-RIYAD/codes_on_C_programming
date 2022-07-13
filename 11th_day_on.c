@@ -49,4 +49,3 @@ int main(){
       printf("The given Triangle is scalene\n");
    return 0;
 }
-#include<stdio.h>
