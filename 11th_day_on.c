@@ -63,6 +63,3 @@ dig = num % 10;
 rev = rev * 10 + dig;
 num = num / 10;
 }
-printf("\nREVERSED NUMBER IS----: %ld", rev);
-return 0;
-}
