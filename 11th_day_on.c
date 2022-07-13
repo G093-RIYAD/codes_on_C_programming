@@ -58,6 +58,3 @@ long int num, rev = 0, dig;
 printf("\n\nENTER A NUMBER-----: ");
 scanf("%ld", &num);
 while(num>0)
-{
-dig = num % 10;
-
