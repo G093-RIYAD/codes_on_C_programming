@@ -111,5 +111,3 @@ int main()
 		printf("\nThe length of the string is Odd..\n");
 	}
 	
-	return 0;
-}
