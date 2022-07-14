@@ -96,7 +96,3 @@ int main()
 	// calculate the length of the string
 	length = strlen(string);
 
-	if(length%2==0)
-	{
-		for(i=0;i<length;i+=2)
-		{
