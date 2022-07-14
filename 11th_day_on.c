@@ -103,6 +103,3 @@ int main()
 			c = string[i] ; 
 			string[i] = string[i+1];  
 			string[i+1] = c;
-		}
-		printf("\nAfter Swap String : %s",string);
-	}	
