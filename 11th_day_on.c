@@ -93,6 +93,3 @@ int main()
 	printf("\nEnter the string : ");
 	fgest(string,30,stdin);//gets(string);
 
-	// calculate the length of the string
-	length = strlen(string);
-
