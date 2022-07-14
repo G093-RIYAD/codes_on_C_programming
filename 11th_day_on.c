@@ -73,20 +73,3 @@ int main()
     printf("Reverse Number is : %d\n", revNumber);
     return 0;
 }
-/** C program to swap adjacent characters 
-* of a string but obly if it is of even 
-* length
-*/
-
-#include <stdio.h>
-#include <string.h>
-
-// main function
-int main()
-{
-	// Declare an integer pointer
-	char string[30]={0};
-	char c=0;
-	int length=0,i=0;
-
-
