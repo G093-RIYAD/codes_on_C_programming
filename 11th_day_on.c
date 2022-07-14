@@ -105,9 +105,4 @@ int main()
 			string[i+1] = c;
 		}
 		printf("\nAfter Swap String : %s",string);
-	}
-	else
-	{
-		printf("\nThe length of the string is Odd..\n");
-	}
-	
+	}	
