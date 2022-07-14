@@ -100,6 +100,3 @@ int main()
 	{
 		for(i=0;i<length;i+=2)
 		{
-			c = string[i] ; 
-			string[i] = string[i+1];  
-			string[i+1] = c;
