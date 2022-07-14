@@ -89,7 +89,4 @@ int main()
 	char c=0;
 	int length=0,i=0;
 
-	// Take string input from the user
-	printf("\nEnter the string : ");
-	fgest(string,30,stdin);//gets(string);
 
