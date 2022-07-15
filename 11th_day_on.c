@@ -69,7 +69,3 @@ int main()
         revNumber = (revNumber * 10) + dig;
         n = n / 10;
     }
-
-    printf("Reverse Number is : %d\n", revNumber);
-    return 0;
-}
