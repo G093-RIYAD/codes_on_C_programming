@@ -49,11 +49,3 @@ int main(){
       printf("The given Triangle is scalene\n");
    return 0;
 }
-/* program to reverse an integer number.*/
-
-#include <stdio.h>
-
-int main()
-{
-    int n;
-    int dig, revNumber;
