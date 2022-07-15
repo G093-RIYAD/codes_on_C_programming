@@ -64,5 +64,4 @@ int main()
     /*Reversing Number*/
     revNumber = 0;
 
-    while (n > 0) {
-        dig = n % 10; /*get digit*
+	
