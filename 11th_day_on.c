@@ -57,8 +57,3 @@ int main()
 {
     int n;
     int dig, revNumber;
-
-    printf("Enter an integer number : ");
-    scanf("%d", &n);
-
-    
