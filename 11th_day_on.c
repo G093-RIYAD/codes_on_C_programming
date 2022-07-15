@@ -61,7 +61,4 @@ int main()
     printf("Enter an integer number : ");
     scanf("%d", &n);
 
-    /*Reversing Number*/
-    revNumber = 0;
-
-	
+    
