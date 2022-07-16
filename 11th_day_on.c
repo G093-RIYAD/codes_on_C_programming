@@ -38,8 +38,3 @@ int max(int num1, int num2) {
  
    return result; 
 }	
-/*  C Program to check whether number is EVEN or ODD  */
-
-#include <stdio.h>
-int main()
-{
