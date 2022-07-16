@@ -38,5 +38,3 @@ int max(int num1, int num2) {
  
    return result; 
 }	
-#include<stdio.h>
-int main(){
