@@ -51,7 +51,3 @@ int main()
 
     /*If number is divisible by 2 then number
     is EVEN otherwise number is ODD*/
-
-    if(num%2==0)
-        printf("\n%d is an EVEN number.",num);
-  
