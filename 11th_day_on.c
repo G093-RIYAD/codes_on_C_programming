@@ -45,6 +45,3 @@ int main()
 {
 
     int num;
-
-    printf("Enter an integer number :: ");
-    scanf("%d",&num);
