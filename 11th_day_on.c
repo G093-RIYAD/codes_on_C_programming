@@ -48,6 +48,3 @@ int main()
 
     printf("Enter an integer number :: ");
     scanf("%d",&num);
-
-    /*If number is divisible by 2 then number
-    is EVEN otherwise number is ODD*/
