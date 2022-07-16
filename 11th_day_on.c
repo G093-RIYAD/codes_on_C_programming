@@ -57,5 +57,3 @@ int main()
     else
         printf("\n%d is an ODD number.",num);
 
-    return 0;
-}
