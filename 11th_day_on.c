@@ -42,5 +42,3 @@ int max(int num1, int num2) {
 int main(){
    int side1, side2, side3;
    printf("Enter sides of triangle: \n");
-   scanf("%d%d%d",&side1,&side2,&side3);
-   if(side1 == side2 && side2 == side3)
