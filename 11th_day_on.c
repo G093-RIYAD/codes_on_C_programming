@@ -40,5 +40,3 @@ int max(int num1, int num2) {
 }	
 #include<stdio.h>
 int main(){
-   int side1, side2, side3;
-   printf("Enter sides of triangle: \n");
