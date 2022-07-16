@@ -54,6 +54,4 @@ int main()
 
     if(num%2==0)
         printf("\n%d is an EVEN number.",num);
-    else
-        printf("\n%d is an ODD number.",num);
-
+  
