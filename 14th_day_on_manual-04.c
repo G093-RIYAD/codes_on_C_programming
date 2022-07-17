@@ -16,3 +16,19 @@ int main()
     printf("Sum of first and last digit = %d", sum);
     return 0;
 }
+//#03 Write a C program to calculate product of digits of any number.
+#include <stdio.h>
+int main()
+{
+  	int Number, Reminder, Product = 1;
+  	printf("Please Enter any Number that you wish  : ");
+  	scanf("%d", & Number);
+  	while(Number != 0)
+  	{
+  		Reminder = Number % 10;
+  		Number = Number / 10;
+		Product = Product * Reminder;
+	}
+	printf("%d", Product);
+  	return 0;
+}
