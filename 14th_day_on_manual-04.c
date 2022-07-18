@@ -32,3 +32,16 @@ int main()
 	printf("%d", Product);
   	return 0;
 }
+//#04 Write a program in C to find the sum of the series 1 +11 + 111 + 1111 + .. n terms.
+#include<stdio.h>
+int main()
+{
+    int n=4, i, s=0, sum=0;
+    for(i=0;i<=n;i++){
+        s=s*10+1;
+        printf("%d\n",s);
+        sum=sum+s;
+    }
+    printf("Sum of the series is %d",sum);
+    return 0;
+}
