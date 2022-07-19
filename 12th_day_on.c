@@ -31,5 +31,3 @@ int main()
     for(a=100;a>=0;a=a-10){
         printf("%d\n",a);
 
-
-}
