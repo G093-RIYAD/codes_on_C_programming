@@ -53,7 +53,3 @@ int main() {
   first = second;
 
   // value of temp (initial value of first) is assigned to second
-  second = temp;
-
-  // %.2lf displays number up to 2 decimal points
-  printf("\nAfter swapping, first number = %.2lf\n", first);
