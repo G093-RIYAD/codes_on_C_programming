@@ -27,4 +27,3 @@ int main()
         printf("***\n");
     }
     //Write a for loop which will pint the following numbers:
-    int a;
