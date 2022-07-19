@@ -26,4 +26,3 @@ int main()
         printf("**\n");
         printf("***\n");
     }
-    //Write a for loop which will pint the following numbers:
