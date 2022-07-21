@@ -30,3 +30,29 @@
      }
      return 0;
  }
+ #include<stdio.h>
+ int main()
+ {
+     int i, j, f, l;
+     i = 1;
+     while(i<=7){
+        j=1;
+        while(j<=i){
+            printf("*");
+            j++;
+        }
+        i++;
+        printf("\n");
+     }
+     f = 1;
+     while(f<=6){
+        l=f;
+        while(l<=6){
+            printf("*");
+            l++;
+        }
+        printf("\n");
+        f++;
+     }
+     return 0;
+ }
