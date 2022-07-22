@@ -4,7 +4,7 @@ int main()
     int i;
     for (i = 0; i < 10; i++) {
         if (i == 4) {
-        break;
+        break; //Used to learn break statment
         }
     printf("%d\n", i);
     }
