@@ -78,3 +78,16 @@ int main()
     }
     return 0;
 }
+#include<stdio.h>
+int main()
+{
+    int a[10],i,c=0;
+    for(i=0; i<10; i++){
+        scanf("%d",&a[i]);
+    }
+    for(i=0; i<10; i++){
+        c = c + a[i];
+    }
+    printf("The total ans: %d",c);
+    return 0;
+}
