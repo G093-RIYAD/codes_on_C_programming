@@ -44,4 +44,3 @@ int main() {
   printf("Enter first number: ");
   scanf("%lf", &first);
   printf("Enter second number: ");
-  scanf("%lf", &second);
