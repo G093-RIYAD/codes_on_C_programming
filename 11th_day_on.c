@@ -42,4 +42,3 @@ int max(int num1, int num2) {
 int main() {
   double first, second, temp;
   printf("Enter first number: ");
-  scanf("%lf", &first);
