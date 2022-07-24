@@ -50,4 +50,3 @@ int main() {
   temp = first;
 
   // value of second is assigned to first
-  first = second;
