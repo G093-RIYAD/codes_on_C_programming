@@ -41,4 +41,3 @@ int max(int num1, int num2) {
 #include<stdio.h>
 int main() {
   double first, second, temp;
-  printf("Enter first number: ");
