@@ -45,5 +45,3 @@ int main() {
   scanf("%lf", &first);
   printf("Enter second number: ");
   scanf("%lf", &second);
-
-  // value of first is assigned to temp
