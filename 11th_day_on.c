@@ -51,5 +51,3 @@ int main() {
 
   // value of second is assigned to first
   first = second;
-
-  // value of temp (initial value of first) is assigned to second
