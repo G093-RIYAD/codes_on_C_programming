@@ -59,9 +59,4 @@ int main()
     digits     = (int)log10(num); 
 
     /* Find first digit */
-    firstDigit = (int)(num / pow(10, digits)); 
-
-    swappedNum  = lastDigit;
-    swappedNum *= (int) pow(10, digits);
-    swappedNum += num % ((int) pow(10, digits));
-
+    firstDigit = (int)(num / pow(10, digits));
