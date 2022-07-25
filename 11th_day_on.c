@@ -51,6 +51,3 @@ int main()
     /* Input number from user */
     printf("Enter any number: ");
     scanf("%d", &num);
-
-    /* Find last digit */
-    lastDigit  = num % 10;
