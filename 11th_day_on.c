@@ -54,9 +54,3 @@ int main()
 
     /* Find last digit */
     lastDigit  = num % 10;
-
-    /* Find total number of digit - 1 */
-    digits     = (int)log10(num); 
-
-    /* Find first digit */
-    firstDigit = (int)(num / pow(10, digits));
