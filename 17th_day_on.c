@@ -18,3 +18,15 @@ int main()
     }
     return 0;
 }
+#include <stdio.h>
+int main()
+{
+    int uin, cn;
+    printf("Enter the number for multiplication : ");
+    scanf("%d",&uin);
+    for(cn=1;cn<=10;cn++){
+        printf("%d*%d= %d",uin,cn,uin*cn);
+        printf("\n");
+    }
+    return 0;
+}
