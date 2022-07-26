@@ -47,5 +47,3 @@ int main()
 {
     int num, swappedNum;
     int firstDigit, lastDigit, digits;
-
-    /* Input number from user *
