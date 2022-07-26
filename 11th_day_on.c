@@ -46,4 +46,3 @@ int main() {
 int main()
 {
     int num, swappedNum;
-    int firstDigit, lastDigit, digits;
