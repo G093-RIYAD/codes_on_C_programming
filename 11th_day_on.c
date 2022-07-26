@@ -36,13 +36,5 @@ int max(int num1, int num2) {
    else
       result = num2;
  
-   return result; 
+   return 0; 
 }	
-#include<stdio.h>
-int main() {
-#include <stdio.h>
-#include <math.h>
-
-int main()
-{
-    int num, swappedNum;
