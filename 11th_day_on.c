@@ -53,6 +53,3 @@ int main()
  
     sum=a+b;
     avg= (float)(a+b)/2;
- 
-    printf("\nSum of %d and %d is = %d",a,b,sum);
-    printf("\nAverage of %d and %d is = %f",a,b,avg);
