@@ -50,5 +50,3 @@ int main()
     scanf("%d",&a);
     printf("Enter second number :");
     scanf("%d",&b);
- 
-    sum=a+b;
