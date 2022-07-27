@@ -42,5 +42,3 @@ int max(int num1, int num2) {
 #include <stdio.h>
  
 int main()
-{
-    int a,b,sum;
