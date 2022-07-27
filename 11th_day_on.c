@@ -45,6 +45,3 @@ int main()
 {
     int a,b,sum;
     float avg;
- 
-    printf("Enter first number :");
-    scanf("%d",&a);
