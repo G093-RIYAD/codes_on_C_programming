@@ -52,4 +52,3 @@ int main()
     scanf("%d",&b);
  
     sum=a+b;
-    avg= (float)(a+b)/2;
