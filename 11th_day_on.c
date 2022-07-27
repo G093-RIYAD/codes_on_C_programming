@@ -38,7 +38,3 @@ int max(int num1, int num2) {
  
    return 0; 
 }	
-/* c program find sum and average of two numbers*/
-#include <stdio.h>
- 
-int main()
