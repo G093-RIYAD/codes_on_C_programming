@@ -48,4 +48,3 @@ int main()
  
     printf("Enter first number :");
     scanf("%d",&a);
-    printf("Enter second number :");
