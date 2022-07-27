@@ -56,6 +56,3 @@ int main()
  
     printf("\nSum of %d and %d is = %d",a,b,sum);
     printf("\nAverage of %d and %d is = %f",a,b,avg);
- 
-    return 0;
-}
