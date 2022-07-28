@@ -53,4 +53,3 @@ int main() {
   printf("Displaying integers: ");
 
   // printing elements of an array
-  for(int i = 0; i < 5; ++i) {
