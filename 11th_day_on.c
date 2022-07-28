@@ -44,5 +44,3 @@ int main() {
   int values[5];
 
   printf("Enter 5 integers: ");
-
-  // taking input and storing it in an array
