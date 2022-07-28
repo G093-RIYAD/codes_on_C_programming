@@ -47,5 +47,3 @@ int main() {
 
   // taking input and storing it in an array
   for(int i = 0; i < 5; ++i) {
-     scanf("%d", &values[i]);
-  }
