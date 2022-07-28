@@ -51,5 +51,3 @@ int main() {
   }
 
   printf("Displaying integers: ");
-
-  // printing elements of an array
