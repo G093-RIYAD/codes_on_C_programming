@@ -42,5 +42,3 @@ int max(int num1, int num2) {
 
 int main() {
   int values[5];
-
-  printf("Enter 5 integers: ");
